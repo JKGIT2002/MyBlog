@@ -1,0 +1,2 @@
+# HUGO
+Hugo Project
